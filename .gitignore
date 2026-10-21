@@ -1,4 +1,5 @@
 .build/
+.codex-remote-attachments/
 node_modules/
 src/candidate*.pptx
 src/manifest.json
@@ -11,4 +12,5 @@ output/*
 !output/経営層向け_セキュリティ改善投資_図解改訂版.pptx
 !output/経営層向け_セキュリティ改善投資_図解改訂版.pdf
 !output/図解改訂版_変更・検証.md
+!output/security_incident_executive_2026.pptx
 
