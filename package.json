@@ -1,0 +1,12 @@
+{
+  "name": "security-incident-executive-slides",
+  "version": "1.0.0",
+  "private": true,
+  "description": "経営層向けセキュリティインシデント・改善投資の編集可能なPowerPoint資料",
+  "scripts": {
+    "build:draft": "node src/build.cjs"
+  },
+  "dependencies": {
+    "pptxgenjs": "4.0.1"
+  }
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "S01",
+    "org": "警察庁",
+    "date": "2026年9月",
+    "title": "令和8年上半期におけるサイバー空間をめぐる脅威の情勢等について",
+    "url": "https://www.npa.go.jp/publications/statistics/cybersecurity/data/R8kami/R08_kami_cyber_jousei.pdf",
+    "loc": "本文9頁・図表4（PDF18頁）、本文10頁",
+    "claims": "2020下期～2026上期の半期別被害報告件数。2026上期123件。RaaSと侵入・権限奪取・暗号化の典型的な流れ。"
+  },
+  {
+    "id": "S02",
+    "org": "KADOKAWA",
+    "date": "2025-05-08",
+    "title": "2025年3月期 通期決算を発表",
+    "url": "https://www.kadokawa.co.jp/topics/13832/",
+    "loc": "通期連結決算サマリ・純利益に関する説明",
+    "claims": "サイバー攻撃による減収影響83億円、営業利益への減益影響47億円（会社試算）。特別損失24億円。"
+  },
+  {
+    "id": "S03",
+    "org": "ドワンゴ",
+    "date": "2024-08-05",
+    "title": "8月5日15時、ニコニコが再開",
+    "url": "https://group.kadokawa.co.jp/information/media-download/1369/7062b6eb47fd83b7/",
+    "loc": "1頁 冒頭",
+    "claims": "6月8日発生。8月5日15時より順次再開。日付差58日は作成者による計算で、全機能の完全復旧日数ではない。"
+  },
+  {
+    "id": "S04",
+    "org": "ドワンゴ",
+    "date": "2024-08-05",
+    "title": "ランサムウェア攻撃による情報漏洩に関するお知らせ",
+    "url": "https://group.kadokawa.co.jp/information/media-download/1368/88e61ab4836989de/",
+    "loc": "1頁 個人情報、2～3頁 原因と対策",
+    "claims": "外部漏洩を確認した個人情報254,241人。認証情報窃取を根本原因と推測。窃取経路・方法は不明。外部専門企業による助言・チェックと追加対策。"
+  },
+  {
+    "id": "S05",
+    "org": "アスクル",
+    "date": "2025-12-12",
+    "title": "ランサムウェア攻撃の影響調査結果および安全性強化に向けた取り組み（第13報）",
+    "url": "https://pdf.irpocket.com/C0032/PDLX/O3bg/N4O3.pdf",
+    "loc": "1～2頁 時系列、3～4頁 侵害・原因・再発防止策",
+    "claims": "10月19日の受注・出荷停止、10月29日の出荷トライアル。MFA未適用の委託先管理者アカウントの不正利用、侵害DCのサーバEDR未導入・24時間監視未実施、バックアップ暗号化。原因の完全究明は困難。"
+  },
+  {
+    "id": "S06",
+    "org": "アスクル",
+    "date": "2026-02-13",
+    "title": "サービスの復旧状況について（第18報）",
+    "url": "https://pdf.irpocket.com/C0032/YpwX/YPJ9/h35G.pdf",
+    "loc": "1頁 サービスの本格復旧フェーズの進捗",
+    "claims": "2月4日に全物流センターで新物流システムによる出荷再開完了。2月13日一般品から当日配送を順次再開。10月19日～2月4日の日付差108日は作成者計算。"
+  },
+  {
+    "id": "S07",
+    "org": "アスクル（会社開示PDF、Yahoo!配信）",
+    "date": "2026-07-03",
+    "title": "2026年5月期 決算短信〔日本基準〕（連結）",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260703/20260703587650.pdf",
+    "loc": "添付2頁（PDF4頁）、連結損益計算書、追加情報（PDF16頁）",
+    "claims": "特別損失のシステム障害対応費用5,108百万円。営業外費用の休止固定資産減価償却費1,269百万円。連結純損失22,150百万円は会社全体の結果で、サイバー被害総額ではない。"
+  },
+  {
+    "id": "S08",
+    "org": "アサヒグループHD",
+    "date": "2026-02-18",
+    "title": "サイバー攻撃被害の再発防止策とガバナンス体制の強化について",
+    "url": "https://www.asahigroup-holdings.com/newsroom/detail/20260218-0101.html",
+    "loc": "1.事案概要、4.事業への影響と復旧状況、6.再発防止策",
+    "claims": "2025年9月29日システム障害。拠点ネットワーク機器経由の侵入。食品12月2日、ビール・飲料12月3日EOS受注再開。2026年2月までに物流正常化。監視・バックアップ・ガバナンス強化等。"
+  },
+  {
+    "id": "S09",
+    "org": "アサヒグループHD",
+    "date": "2025年12月期決算説明会資料（2026年公表）",
+    "title": "2025年12月期 決算説明会 主な質疑応答",
+    "url": "https://www.asahigroup-holdings.com/ir/event/presentation/2025/qa_yearend.html",
+    "loc": "Q4 システム障害による日本・東アジアへの業績影響",
+    "claims": "事業利益の減少額と「その他」の費用を合わせ約400億円の影響と会社が説明。会社算定の業績影響であり、被害総額や特別損失ではない。"
+  },
+  {
+    "id": "S10",
+    "org": "PHP開発チーム",
+    "date": "2026-10-21",
+    "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+    "url": "https://www.php.net/archive/2026.php#2026-10-21-5",
+    "loc": "21 Oct 2026 脆弱性・対象・更新案内",
+    "claims": "CVE-2026-109618とCVE-2026-109619。修正リリース8.2.35、8.3.36、8.4.27、8.5.12。Webリクエストを処理するPHPが対象。更新のみが完全な対処。ディストリビューションのバックポート確認が必要。"
+  },
+  {
+    "id": "S11",
+    "org": "php/php-src（開発元）",
+    "date": "2026-10-21",
+    "title": "RCE via OOM corruption / GHSA-w8hw-w9fx-j79w",
+    "url": "https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w",
+    "loc": "Affected versions / Summary / Susceptibility / Mitigation",
+    "claims": "メモリ不足時の破損に起因するRCE。mod_phpで実証。FPMはこの脆弱性単独では完全な攻撃の実証なしとの記述。影響・成立条件は構成依存。"
+  },
+  {
+    "id": "S12",
+    "org": "php/php-src（開発元）",
+    "date": "2026-10-21",
+    "title": "RCE via stale global state / GHSA-6wmf-4rv5-p3rp",
+    "url": "https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp",
+    "loc": "Affected versions / Concrete and candidate cases / Impact and reliability",
+    "claims": "解放後メモリ参照に起因するRCE。mod_phpと条件付きFPM経路の実証。成立条件は構成・アプリケーション依存。"
+  },
+  {
+    "id": "S13",
+    "org": "国家公安委員会・総務省・経済産業省",
+    "date": "2026-03-12",
+    "title": "不正アクセス行為の発生状況及びアクセス制御機能に関する技術の研究開発の状況",
+    "url": "https://www.npa.go.jp/bureau/cyber/pdf/R080312_access.pdf",
+    "loc": "本文1頁 図1-1（PDF2頁）",
+    "claims": "不正アクセス行為の認知件数：2021年1,516件、2022年2,200件、2023年6,312件、2024年5,358件、2025年7,190件。犯罪構成要件に該当する行為数であり、被害企業数ではない。"
+  },
+  {
+    "id": "S14",
+    "org": "JPCERT/CC",
+    "date": "2026-07-16",
+    "title": "四半期レポート［2026年4月1日～6月30日］",
+    "url": "https://www.jpcert.or.jp/qr/2026/QR_FY2026-Q1.pdf",
+    "loc": "本文6頁 表1.1・注2、8頁 表1.2（PDF7・9頁）",
+    "claims": "2026年4～6月の報告件数14,056件、前年同期14,558件。フィッシング、Web改ざん、マルウェア、DoS/DDoS等を含む。報告件数とインシデント件数は異なり、国内外の報告を受け付けている。直近は前年同期より減少しており、全指標が一方向に増加しているとは示さない。"
+  }
+]
