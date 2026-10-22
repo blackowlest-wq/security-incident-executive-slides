@@ -4,6 +4,7 @@
 
 ## 資料
 
+- [追加提供資料：security_dopamine.pptx](output/security_dopamine.pptx)（提供されたファイルをそのまま収録）
 - [追加提供資料：security_incident_executive_2026.pptx](output/security_incident_executive_2026.pptx)（提供されたファイルをそのまま収録）
 - [編集可能なPowerPoint](output/経営層向け_セキュリティ改善投資_図解改訂版.pptx)
 - [確認用PDF](output/経営層向け_セキュリティ改善投資_図解改訂版.pdf)
